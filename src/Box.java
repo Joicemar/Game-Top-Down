@@ -7,7 +7,7 @@ import java.awt.Rectangle;
 public class Box extends GameObject{
 
 	public Box(int x, int y, ID id) {
-		super(x, y, id);
+		super(x, y, id );
 		velX = 1;
 	}
 
